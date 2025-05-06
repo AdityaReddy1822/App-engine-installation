@@ -4,4 +4,4 @@ num2 = 6.3
 
 sum = num1 + num2
 
-print('The sum of '.format(num1, num2, sum))
+print( sum)
